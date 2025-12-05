@@ -1,0 +1,8 @@
+Primer User History:Como un editor de video, quiero poder buscar videos usando palabras clave específicas 
+(ej. "plano panoramico atardecer") para encontrar material relevante.
+
+Segundo User History: Como un usuario casual, quiero navegar por colecciones temáticas
+(ej. "Lo Mejor de la Semana", "Fondos para Pantalla Verde") para descubrir contenido.
+
+Tercer User History: Como un usuario de Mixkit, quiero ver la información de la licencia junto al botón de descarga
+ (ej. "Gratis para Uso Comercial") para asegurarme de que descargando el material que realmente necesito.
